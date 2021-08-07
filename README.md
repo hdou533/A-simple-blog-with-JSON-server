@@ -16,7 +16,7 @@
 
 ### Possible Problems
 
-*json-server : 无法加载文件 ...\json-server.ps1，因为在此系统上禁止运行脚本。- it says json server cannot be loaded because it is forbidden to run script on the system*
+*json-server : cannot load ...\json-server.ps1, because it is forbidden to run script on this system*
 
 >1. Open PowerShell as adminstrator
 >2. Enter 'set-ExecutionPolicy RemoteSigned'
